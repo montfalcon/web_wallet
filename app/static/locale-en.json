@@ -28,7 +28,7 @@
         "vote_will_transfer_balance_to_self": "The account will transfer its entire balance (minus transaction fee) to itself",
         "canceling": "Canceling..",
         "pending": "Pending..",
-        "rename_account_name_existed": "Account with the name {{value}} is already registered on the blockchian.",
+        "rename_account_name_existed": "Account with the name {{value}} is already registered on the blockchain.",
         "account_not_found": "Account not found",
         "wrong_amount": "Wrong Amount",
         "memo_size_exceeds": "Memo size shouldn't exceed {{value}} characters",
